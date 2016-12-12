@@ -10,7 +10,7 @@ namespace myveryfirstrepo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello my first repo!!!");
+            Console.WriteLine("Hello GitHub!!!");
         }
     }
 }
